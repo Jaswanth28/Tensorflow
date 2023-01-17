@@ -1,0 +1,16 @@
+item { 
+	id:1
+	name:'ThumbsUp'
+}
+item { 
+	id:2
+	name:'ThumbsDown'
+}
+item { 
+	id:3
+	name:'ThankYou'
+}
+item { 
+	id:4
+	name:'LiveLong'
+}
